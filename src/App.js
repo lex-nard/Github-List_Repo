@@ -36,12 +36,12 @@ function App() {
           if(json.message){
             setNotFound(true)
             setRepos([])
-            let empty = repos.length? false : true
-            setIsEmpty(empty);
           }
           else{
             setRepos(json)
             setNotFound(false)
+            let empty = json.length? false : true
+            setIsEmpty(empty);
           }
         })
         .catch(e => {
