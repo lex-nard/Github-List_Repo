@@ -43,7 +43,7 @@ Com esse desafio, você aprenderá:
 
 ### Exemplo
 
-![](https://codenation-challenges.s3-us-west-1.amazonaws.com/vue-3/tToalvQ.gif)
+<!--![](https://codenation-challenges.s3-us-west-1.amazonaws.com/vue-3/tToalvQ.gif)-->
 
 ### Atenção
 
